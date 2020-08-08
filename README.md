@@ -1,7 +1,7 @@
 # 功能描述
 使用**STM32F103**最小系统、**LCD**屏幕及**矩阵键盘**实现基础的计算器功能，即"+", "-", "*", "/"以及括号运算。
 
-ENGLISH VERSION!
+[ENGLISH VERSION!](https://github.com/Kexin-Tang/Calculator/blob/master/README_EN.md)
 
 ![Calculator.png](https://i.loli.net/2020/08/08/EaPH6ThXvwnueZj.png)
 
